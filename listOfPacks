@@ -1,0 +1,144 @@
+# packages in environment at /home/uzielr/anaconda3/envs/uzielr:
+#
+_tflow_select             2.1.0                       gpu    anaconda
+absl-py                   0.7.1                    py36_0    conda-forge
+astor                     0.7.1                      py_0    conda-forge
+atk                       2.25.90           hb9dd440_1002    conda-forge
+backcall                  0.1.0                    py36_0    anaconda
+blas                      1.0                         mkl  
+bzip2                     1.0.6             h14c3975_1002    conda-forge
+c-ares                    1.15.0            h14c3975_1001    conda-forge
+ca-certificates           2019.3.9             hecc5488_0    conda-forge
+cairo                     1.16.0            ha4e643d_1000    conda-forge
+certifi                   2016.2.28                py36_0  
+cffi                      1.10.0                   py36_0  
+colorama                  0.4.1                    py36_0    anaconda
+cudatoolkit               9.0                  h13b8566_0    anaconda
+cudnn                     7.1.2                 cuda9.0_0    anaconda
+cupti                     9.0.176                       0    anaconda
+cycler                    0.10.0                     py_1    conda-forge
+dbus                      1.13.0            h4e0c4b3_1000    conda-forge
+decorator                 4.3.2                    py36_0    anaconda
+expat                     2.2.5             hf484d3e_1002    conda-forge
+ffmpeg                    4.1.1                h167e202_0    conda-forge
+fire                      0.1.3                      py_1    conda-forge
+fontconfig                2.13.1            h2176d3f_1000    conda-forge
+freetype                  2.9.1             h94bbf69_1005    conda-forge
+gast                      0.2.2                      py_0    conda-forge
+gdk-pixbuf                2.36.12           h49783d7_1002    conda-forge
+gettext                   0.19.8.1          h9745a5d_1001    conda-forge
+giflib                    5.1.9                h516909a_0    conda-forge
+glib                      2.58.3            hf63aee3_1001    conda-forge
+gmp                       6.1.2             hf484d3e_1000    conda-forge
+gnutls                    3.6.5             hd3a4fd2_1002    conda-forge
+gobject-introspection     1.58.2          py36h2da5eee_1000    conda-forge
+graphite2                 1.3.13            hf484d3e_1000    conda-forge
+grpcio                    1.16.0          py36h4f00d22_1000    conda-forge
+gstreamer                 1.14.4            h66beb1c_1001    conda-forge
+gtk2                      2.24.31           hb68c50a_1001    conda-forge
+h5py                      2.9.0            py36h7918eee_0    anaconda
+harfbuzz                  2.4.0                h37c48d4_0    conda-forge
+hdf5                      1.10.4               hb1b8bf9_0    anaconda
+icu                       58.2              hf484d3e_1000    conda-forge
+intel-openmp              2019.1                      144    anaconda
+ipython                   7.3.0            py36h39e3cac_0    anaconda
+ipython_genutils          0.2.0            py36hb52b0d5_0    anaconda
+jasper                    1.900.1           h07fcdf6_1006    conda-forge
+jbig                      2.1                           0  
+jedi                      0.13.3                   py36_0    anaconda
+jpeg                      9c                h14c3975_1001    conda-forge
+keras-applications        1.0.7                      py_0    anaconda
+keras-preprocessing       1.0.9                      py_0    anaconda
+kiwisolver                1.0.1           py36h6bb024c_1002    conda-forge
+lame                      3.100             h14c3975_1001    conda-forge
+libblas                   3.8.0                5_openblas    conda-forge
+libcblas                  3.8.0                5_openblas    conda-forge
+libffi                    3.2.1                         1  
+libgcc                    5.2.0                         0  
+libgcc-ng                 8.2.0                hdf63c60_1    anaconda
+libgfortran-ng            7.3.0                hdf63c60_0    anaconda
+libiconv                  1.15              h14c3975_1004    conda-forge
+liblapack                 3.8.0                5_openblas    conda-forge
+liblapacke                3.8.0                5_openblas    conda-forge
+libpng                    1.6.36            h84994c4_1000    conda-forge
+libprotobuf               3.7.0                h8b12597_2    conda-forge
+libstdcxx-ng              8.2.0                hdf63c60_1    anaconda
+libtiff                   4.0.9                he6b73bb_1    conda-forge
+libuuid                   2.32.1            h14c3975_1000    conda-forge
+libwebp                   1.0.2                h576950b_1    conda-forge
+libxcb                    1.13              h14c3975_1002    conda-forge
+libxml2                   2.9.8                h422b904_2    conda-forge
+markdown                  2.6.11                     py_0    conda-forge
+matplotlib                3.0.3                    py36_0    conda-forge
+matplotlib-base           3.0.3            py36h167e16e_0    conda-forge
+mkl                       2019.1                      144    anaconda
+mkl_fft                   1.0.10           py36ha843d7b_0    anaconda
+mkl_random                1.0.2            py36hd81dba3_0    anaconda
+nccl                      1.3.5                 cuda9.0_0    anaconda
+ncurses                   6.1               hf484d3e_1002    conda-forge
+nettle                    3.4.1             h1bed415_1002    conda-forge
+ninja                     1.8.2            py36h6bb024c_1    anaconda
+numpy                     1.16.2           py36h7e9f1db_0    anaconda
+numpy-base                1.16.2           py36hde5b4d6_0    anaconda
+olefile                   0.44                     py36_0  
+openblas                  0.3.5             h9ac9557_1001    conda-forge
+opencv                    4.1.0            py36h79d2e43_1    conda-forge
+opencv3                   3.1.0                    py36_0    menpo
+openh264                  1.8.0             hdbcaa40_1000    conda-forge
+openssl                   1.0.2r               h14c3975_0    conda-forge
+pandas                    0.24.1           py36he6710b0_0    anaconda
+pango                     1.40.14           h4ea9474_1004    conda-forge
+parso                     0.3.4                    py36_0    anaconda
+pcre                      8.41              hf484d3e_1003    conda-forge
+pexpect                   4.6.0                    py36_0    anaconda
+pickleshare               0.7.5                    py36_0    anaconda
+pillow                    5.4.1           py36h00a061d_1000    conda-forge
+pip                       9.0.1                    py36_1  
+pip                       19.0.3                    <pip>
+pixman                    0.34.0            h14c3975_1003    conda-forge
+prompt_toolkit            2.0.9                    py36_0    anaconda
+protobuf                  3.7.0            py36he1b5a44_1    conda-forge
+pthread-stubs             0.4               h14c3975_1001    conda-forge
+ptyprocess                0.6.0                    py36_0    anaconda
+pycparser                 2.18                     py36_0  
+pygments                  2.3.1                    py36_0    anaconda
+pyparsing                 2.3.1                      py_0    conda-forge
+pyqt                      5.6.0           py36h13b7fb3_1008    conda-forge
+python                    3.6.7             hd21baee_1002    conda-forge
+python-dateutil           2.8.0                      py_0    conda-forge
+pytorch                   0.4.1            py36ha74772b_0    anaconda
+pytz                      2018.9                   py36_0    anaconda
+qt                        5.6.2             hce4f676_1013    conda-forge
+readline                  7.0               hf8c457e_1001    conda-forge
+scipy                     1.2.1            py36h7c811a0_0    anaconda
+setuptools                36.4.0                   py36_1  
+sip                       4.18                     py36_1    conda-forge
+six                       1.10.0                   py36_0  
+sqlite                    3.26.0            h67949de_1001    conda-forge
+tensorboard               1.12.2           py36he6710b0_0    anaconda
+tensorflow                1.12.0          gpu_py36he68c306_0    anaconda
+tensorflow-base           1.12.0          gpu_py36h8e0ae2d_0    anaconda
+tensorflow-gpu            1.12.0               h0d30ee6_0    anaconda
+termcolor                 1.1.0                      py_2    conda-forge
+tk                        8.6.9             h84994c4_1000    conda-forge
+torchvision               0.1.8                    py36_0  
+tornado                   6.0.1            py36h14c3975_0    conda-forge
+traitlets                 4.3.2            py36h674d592_0    anaconda
+wcwidth                   0.1.7            py36hdf4376a_0    anaconda
+werkzeug                  0.14.1                     py_0    conda-forge
+wheel                     0.29.0                   py36_0  
+x264                      1!152.20180806       h14c3975_0    conda-forge
+xorg-kbproto              1.0.7             h14c3975_1002    conda-forge
+xorg-libice               1.0.9             h14c3975_1004    conda-forge
+xorg-libsm                1.2.3             h4937e3b_1000    conda-forge
+xorg-libx11               1.6.7             h14c3975_1000    conda-forge
+xorg-libxau               1.0.9                h14c3975_0    conda-forge
+xorg-libxdmcp             1.1.2             h14c3975_1007    conda-forge
+xorg-libxext              1.3.3             h14c3975_1004    conda-forge
+xorg-libxrender           0.9.10            h14c3975_1002    conda-forge
+xorg-libxt                1.1.5             h14c3975_1002    conda-forge
+xorg-renderproto          0.11.1            h14c3975_1002    conda-forge
+xorg-xextproto            7.3.0             h14c3975_1002    conda-forge
+xorg-xproto               7.0.31            h14c3975_1007    conda-forge
+xz                        5.2.4             h14c3975_1001    conda-forge
+zlib                      1.2.11                        0  
